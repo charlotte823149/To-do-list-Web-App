@@ -1,0 +1,4 @@
+/* Make all Tailwind style available */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
